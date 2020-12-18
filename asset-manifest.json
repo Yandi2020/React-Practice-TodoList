@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Practice-TodoList/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/React-Practice-TodoList/static/js/main.a9a4bf2f.chunk.js",
+    "main.js.map": "/React-Practice-TodoList/static/js/main.a9a4bf2f.chunk.js.map",
+    "runtime-main.js": "/React-Practice-TodoList/static/js/runtime-main.ea5dcbba.js",
+    "runtime-main.js.map": "/React-Practice-TodoList/static/js/runtime-main.ea5dcbba.js.map",
+    "static/js/2.2f255bd8.chunk.js": "/React-Practice-TodoList/static/js/2.2f255bd8.chunk.js",
+    "static/js/2.2f255bd8.chunk.js.map": "/React-Practice-TodoList/static/js/2.2f255bd8.chunk.js.map",
+    "index.html": "/React-Practice-TodoList/index.html",
+    "precache-manifest.1f34a66d16f515b858b5806b96fcdaf3.js": "/React-Practice-TodoList/precache-manifest.1f34a66d16f515b858b5806b96fcdaf3.js",
+    "service-worker.js": "/React-Practice-TodoList/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/React-Practice-TodoList/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2f255bd8.chunk.js.LICENSE.txt": "/React-Practice-TodoList/static/js/2.2f255bd8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea5dcbba.js",
+    "static/js/2.2f255bd8.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a9a4bf2f.chunk.js"
+  ]
+}
